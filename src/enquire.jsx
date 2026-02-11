@@ -98,7 +98,7 @@ function Enquire() {
                         <div className="form-icon-badge">
                             <Send size={28} />
                         </div>
-                        <h2>Register Your Interest</h2>
+                        <h2 style={{color: '#dc2626'}}>Home Relocation</h2>
                         <p>Let's make your move seamless and stress-free</p>
                     </div>
 

@@ -108,15 +108,15 @@ function Quote() {
                 <div className="enquire-hero-content">
                     <div className="hero-badge-enquire">
                         <Zap size={16} />
-                        <span>Fast & Easy</span>
+                        <span>Get Started Today</span>
                     </div>
                     
                     <h1 className="enquire-title">
-                        Get Your <span className="text-gradient">Instant Quote</span>
+                       Begin Your <span className="text-gradient">Relocation Journey</span>
                     </h1>
                     
                     <p className="enquire-subtitle">
-                        Receive a customized quote in minutes - no hidden fees, transparent pricing
+                        Fill out the form below and our expert team will get back to you within 24 hours
                     </p>
                 </div>
             </div>
@@ -127,7 +127,7 @@ function Quote() {
                         <div className="form-icon-badge quote-badge">
                             <Zap size={28} />
                         </div>
-                        <h2>International Relocation</h2>
+                        <h2 style={{color: '#dc2626'}}>International Relocation</h2>
                         <p>Let's make your move seamless and stress-free</p>
                     </div>
 

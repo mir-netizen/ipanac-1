@@ -59,11 +59,11 @@ function FeatureSection() {
           </div>
 
           <div className="services-hero-cta">
-            <Link to="/contact" className="services-primary-cta">
+            <Link to="/home-relocation-dubai" className="services-primary-cta">
               Get Free Consultation
               <ArrowRight size={20} strokeWidth={2.5} />
             </Link>
-            <Link to="/quickquote" className="services-secondary-cta">
+            <Link to="/office-relocation-dubai" className="services-secondary-cta">
               Get Quick Quote
             </Link>
           </div>
@@ -95,7 +95,7 @@ function FeatureSection() {
             </div>
             <div className="service-content-large">
               <div className="service-badge">Local Relocation</div>
-              <h2 className="service-title-large">Local Relocation Within Dubai</h2>
+              <h2 className="service-title-large">Local Relocation Across All Emirates</h2>
               <p className="service-description-large">
                 Moving between Dubai neighborhoods? We specialize in local relocations within Dubai—from Downtown 
                 to Marina, Business Bay to Jumeirah, Arabian Ranches to Palm Jumeirah. Our team knows every building, 
@@ -123,7 +123,7 @@ function FeatureSection() {
                   <span>Professional packing and unpacking services</span>
                 </li>
               </ul>
-              <Link to="/contact" className="service-cta-link">
+              <Link to="/home-relocation-dubai" className="service-cta-link">
                 Get Local Relocation Free Quote
                 <ArrowRight size={18} strokeWidth={2.5} />
               </Link>
@@ -134,7 +134,7 @@ function FeatureSection() {
           <div className="service-block-large reverse">
             <div className="service-content-large">
               <div className="service-badge">Domestic Relocation</div>
-              <h2 className="service-title-large">UAE Domestic Relocation</h2>
+              <h2 className="service-title-large">Inter-Emirate Relocation</h2>
               <p className="service-description-large">
                 Relocating between Dubai, Abu Dhabi, Sharjah, or other Emirates? We handle inter-emirate relocations 
                 with precision, managing all documentation, logistics, and transportation requirements. Our team ensures 
@@ -162,7 +162,7 @@ function FeatureSection() {
                   <span>Complete door-to-door service</span>
                 </li>
               </ul>
-              <Link to="/contact" className="service-cta-link">
+              <Link to="/home-relocation-dubai" className="service-cta-link">
                 Get Domestic Relocation Free Quote
                 <ArrowRight size={18} strokeWidth={2.5} />
               </Link>
@@ -181,7 +181,7 @@ function FeatureSection() {
             </div>
             <div className="service-content-large">
               <div className="service-badge">International Relocation</div>
-              <h2 className="service-title-large">International Relocation from Dubai</h2>
+              <h2 className="service-title-large">International Relocation from Dubai,UAE</h2>
               <p className="service-description-large">
                 Moving internationally from Dubai? We simplify the complexities of international relocation, handling 
                 everything from customs clearance and documentation to international shipping and delivery. Our global 
@@ -209,7 +209,7 @@ function FeatureSection() {
                   <span>Destination country coordination</span>
                 </li>
               </ul>
-              <Link to="/contact" className="service-cta-link">
+              <Link to="/international-relocation-dubai" className="service-cta-link">
                 Get International Relocation Free Quote
                 <ArrowRight size={18} strokeWidth={2.5} />
               </Link>
@@ -220,7 +220,7 @@ function FeatureSection() {
           <div className="service-block-large reverse">
             <div className="service-content-large">
               <div className="service-badge">Home Relocation</div>
-              <h2 className="service-title-large">Home Relocation Services in Dubai</h2>
+              <h2 className="service-title-large">Home Relocation Services in Dubai,UAE</h2>
               <p className="service-description-large">
                 Moving your entire home? We provide comprehensive home relocation services, handling everything from 
                 initial planning and packing to transportation and unpacking. Our team ensures your home relocation 
@@ -248,7 +248,7 @@ function FeatureSection() {
                   <span>Home staging and organization</span>
                 </li>
               </ul>
-              <Link to="/contact" className="service-cta-link">
+              <Link to="/home-relocation-dubai" className="service-cta-link">
                 Get Home Relocation Free Quote
                 <ArrowRight size={18} strokeWidth={2.5} />
               </Link>
@@ -267,7 +267,7 @@ function FeatureSection() {
             </div>
             <div className="service-content-large">
               <div className="service-badge">Corporate Relocation</div>
-              <h2 className="service-title-large">Office & Corporate Relocation in Dubai</h2>
+              <h2 className="service-title-large">Office & Corporate Relocation in Dubai,UAE</h2>
               <p className="service-description-large">
                 Relocating your business or office? We specialize in corporate relocations, minimizing downtime and 
                 ensuring seamless transitions. From small offices to large corporate headquarters, we handle every 
@@ -295,7 +295,7 @@ function FeatureSection() {
                   <span>Employee relocation assistance</span>
                 </li>
               </ul>
-              <Link to="/contact" className="service-cta-link">
+              <Link to="/office-relocation-dubai" className="service-cta-link">
                 Get Corporate Relocation Free Quote
                 <ArrowRight size={18} strokeWidth={2.5} />
               </Link>
@@ -492,11 +492,11 @@ function FeatureSection() {
               to make your move to, from, or within Dubai smooth, safe, and stress-free.
             </p>
             <div className="cta-buttons-large">
-              <Link to="/contact" className="cta-primary-large">
+              <Link to="/home-relocation-dubai" className="cta-primary-large">
                 Get Free Consultation
                 <ArrowRight size={20} strokeWidth={2.5} />
               </Link>
-              <Link to="/quickquote" className="cta-secondary-large">
+              <Link to="/office-relocation-dubai" className="cta-secondary-large">
                 Get Quick Quote
               </Link>
             </div>

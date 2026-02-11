@@ -36,7 +36,7 @@ function Head(){
           </p>
 
           <div className="hero-cta-container">
-            <Link to="/international-relocation-dubai" className="primary-cta">
+            <Link to="/home-relocation-dubai" className="primary-cta">
               Get Free Quote
               <ArrowRight className="cta-icon" size={20} />
             </Link>

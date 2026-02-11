@@ -644,7 +644,13 @@
   }
   
   .image-wrapper {
-    height: 280px;
+    height: auto;
+  }
+  
+  .showcase-image {
+    height: auto;
+    object-fit: cover;
+    width: 100%;
   }
 }
 

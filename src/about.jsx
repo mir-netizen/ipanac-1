@@ -33,7 +33,7 @@ function About() {
           </p>
 
           <div className="about-hero-cta">
-            <Link to="/contact" className="about-primary-cta">
+            <Link to="/home-relocation-dubai" className="about-primary-cta">
               Start Your Relocation Journey
               <ArrowRight size={20} strokeWidth={2.5} />
             </Link>
@@ -59,7 +59,7 @@ function About() {
             </div>
             <div className="stat-block-modern">
               <div className="stat-number-modern">100%</div>
-              <div className="stat-label-modern">Client Satisfaction</div>
+              <div className="stat-label-modern">Client Satisfactichon</div>
             </div>
             <div className="stat-block-modern">
               <div className="stat-number-modern">50+</div>
@@ -447,7 +447,7 @@ function About() {
               Get in touch for a free consultation and personalized relocation plan.
             </p>
             <div className="cta-buttons-modern">
-              <Link to="/contact" className="cta-primary-modern">
+              <Link to="/home-relocation-dubai" className="cta-primary-modern">
                 Get Free Consultation
                 <ArrowRight size={20} strokeWidth={2.5} />
               </Link>

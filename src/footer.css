@@ -197,6 +197,7 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 16px;
+  flex-direction: row-reverse;
 }
 
 .copyright {
@@ -222,6 +223,8 @@
   justify-content: center;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   flex-shrink: 0;
+  position: relative;
+  z-index: 1;
 }
 
 .back-to-top:hover {
@@ -313,15 +316,18 @@
   }
 
   .footer-bottom {
-    flex-direction: column;
+    flex-direction: column-reverse;
     gap: 20px;
     text-align: center;
     padding: 24px 0;
+    align-items: center;
   }
 
   .back-to-top {
     width: 44px;
     height: 44px;
+    align-self: flex-start;
+    margin-left: 0;
   }
   
   .footer-link {
